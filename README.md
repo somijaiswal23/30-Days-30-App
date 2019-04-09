@@ -27,3 +27,17 @@
 
 
 <img src="./JS_Clock/project2.bmp" alt="project2" />
+
+### Project 3 - CSS Variables using JS
+
+`In this project we have change the CSS properties of image using JS.`
+
+* CSS Variables
+
+* Using CSS Variables in JS 
+
+* How to use change CSS using JS.
+
+
+
+<img src="./Update_CSS_Var_Using_JS/project3.png" alt="project3" />
