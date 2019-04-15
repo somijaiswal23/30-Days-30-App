@@ -65,8 +65,5 @@
 
 * CSS properties of flex.
 
-<video width="320" height="240" controls>
-  <source src="./Flex_Panel_Gallery/Flex_Panel.mp4" type="video/mp4">
-  
-</video>
+<img src="./Flex_Panel_Gallery/Flex_Panel.bmp" alt="project5" />
 
