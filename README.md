@@ -41,3 +41,29 @@
 
 
 <img src="./Update_CSS_Var_Using_JS/project3.png" alt="project3" />
+
+
+### Project 4 - Array Cardio
+
+`In this project we have learned about different properties of Array.`
+
+* Array.prototype.filter()- As the name suggest if filters out the array.
+
+* Array.prototype.map()- It returns only the desired key value pair.
+
+* Array.prototype.sort()- It sorts the data.
+
+* Array.prototype.reduce()- It reduces the array based on the property defined.
+
+### Project 5 - Flex Box Image Gallery
+
+`In this project we have learned about flex and its different properties.`
+
+* Using Flex Boxes.
+
+* How to transform flex on click.
+
+* CSS properties of flex.
+
+<img src="./Flex_Panel_Gallery/Flex_Panel.bmp" alt="project5" />
+
